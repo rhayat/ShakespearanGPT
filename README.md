@@ -1,0 +1,1 @@
+This is a miniGPT model with full functionality of attention mechanism trained on corpus of Shakespeare's text to generate Shakespeare Like text and uses sparse categorical cross entropy and perplexity as evaluation metrics
